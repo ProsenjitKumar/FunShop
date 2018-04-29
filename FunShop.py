@@ -133,5 +133,5 @@ class Shop:
             self.category()
 
 shop_obj = Shop()
-#shop_obj.registration()
-shop_obj.buy_product()
+shop_obj.registration()
+# shop_obj.buy_product()
